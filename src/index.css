@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main-container {
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.response-container {
+  border: 1px solid gray;
+  justify-content: center;
+  margin-left: 1rem;
+  max-height: 25rem;
+  overflow-y: scroll;
+}
+
+.true-table, .true-table *{
+  margin: 1rem;
+  border: 1px solid black;
+}
+
+.true-table thead {
+  background-color: rgb(46, 28, 28);
+  color: white;
+}
+
+.true-table td, .true-table th {
+  padding: 10px 15px;
+}
+
+.table-response {
+  border-width: 2px;
+  background-color: rgb(155, 182, 155);
+  color: black;
+}
+
+.raw-data {
+  display: flex;
+  max-height: 15rem;
+  border: 1px solid gray;
+}
