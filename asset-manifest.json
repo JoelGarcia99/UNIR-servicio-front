@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UNIR-servicio-front/static/css/main.62390640.chunk.css",
+    "main.js": "/UNIR-servicio-front/static/js/main.46106da8.chunk.js",
+    "main.js.map": "/UNIR-servicio-front/static/js/main.46106da8.chunk.js.map",
+    "runtime-main.js": "/UNIR-servicio-front/static/js/runtime-main.a51b7f44.js",
+    "runtime-main.js.map": "/UNIR-servicio-front/static/js/runtime-main.a51b7f44.js.map",
+    "static/js/2.4bb7dc7a.chunk.js": "/UNIR-servicio-front/static/js/2.4bb7dc7a.chunk.js",
+    "static/js/2.4bb7dc7a.chunk.js.map": "/UNIR-servicio-front/static/js/2.4bb7dc7a.chunk.js.map",
+    "index.html": "/UNIR-servicio-front/index.html",
+    "static/css/main.62390640.chunk.css.map": "/UNIR-servicio-front/static/css/main.62390640.chunk.css.map",
+    "static/js/2.4bb7dc7a.chunk.js.LICENSE.txt": "/UNIR-servicio-front/static/js/2.4bb7dc7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a51b7f44.js",
+    "static/js/2.4bb7dc7a.chunk.js",
+    "static/css/main.62390640.chunk.css",
+    "static/js/main.46106da8.chunk.js"
+  ]
+}
